@@ -30,4 +30,4 @@ To play DinoRunning, you need to follow the steps below:
 The DinoRunning game was created by **Nguyen Nhat**. If you have any questions or suggestions, feel free to contact me at nvnhat4304@gmail.com.    
   
 # Video demo: 
-  **Upating....!**
+  **Updating....!**
