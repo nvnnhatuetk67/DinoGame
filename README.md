@@ -1,7 +1,7 @@
 
 # Introduction
-**DinoRunning** is built using the SDL2 library and C++ programming language.
-It is an exciting game that challenges players to run and jump their way through five different maps: Spring, Desert, Darknight, Green Valley, and Winter. The game's main character must use their skills to overcome obstacles and earn points. With its simple yet engaging gameplay, **DinoRunning**  is sure to provide hours of fun for players of all ages.
+**DinoGame** is built using the SDL2 library and C++ programming language.
+It is an exciting game that challenges players to run and jump their way through five different maps: Spring, Desert, Darknight, Green Valley, and Winter. The game's main character must use their skills to overcome obstacles and earn points. With its simple yet engaging gameplay, **DinoGame**  is sure to provide hours of fun for players of all ages.
 
 # Rules of game
 
@@ -10,7 +10,7 @@ Jumping over obstacles earns the player one point, and if you earn enough points
 Press up to Jump.
 
 
-# How to play DinoRunning
+# How to play DinoGame
 To play DinoRunning, you need to follow the steps below:
 
 1. Download the source code from the game's repository and Extract to file.
